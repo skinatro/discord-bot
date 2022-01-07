@@ -171,45 +171,32 @@ async def halal(ctx):
 
 @client.command()
 async def shino(ctx):
-    await ctx.send("https://cdn.discordapp.com/attachments/727744472674467945/765471708969959424/IMG_20201009_170345.jpg")
-
-
-@client.command()
-async def sherly(ctx):
-    await ctx.send("die u simp, u watson simp")
-
-@client.command()
-async def watson(ctx):
-    await ctx.send("go play chapri free fire")
-
-@client.command()
-async def gon(ctx):
-    await ctx.send("aaja sex")
+    await ctx.send("")
 
 @client.command()
 async def skia(ctx):
-    await ctx.send("https://cdn.discordapp.com/attachments/754053743594569998/767087426404614164/unknown.png")
+    await ctx.send("")
 
 @client.command()
 async def danny(ctx):
-    await ctx.send("https://media.discordapp.net/attachments/369429848155881486/767099075598090261/unknown.png")
+    await ctx.send("")
     
 @client.command()
 async def kyuu(ctx):
-    await ctx.send("Medhansh Singh Bajwa")
+    await ctx.send("")
     
 @client.command()
 async def rorisubereta(ctx):
-    link = "https://files.catbox.moe/5sd8ak.jpg"
+    link = ""
     await ctx.send(link)
 
 @client.command()
 async def dusk(ctx):
-    await ctx.send("if u lel once again, i will kill with my own hands")
+    await ctx.send("")
 
 @client.command()
 async def ultra(ctx):
-    await ctx.send("ultra bangali")
+    await ctx.send("")
 
 @client.command()
 async def empty(ctx):
@@ -225,24 +212,24 @@ async def genshin(ctx):
 
 @client.command()
 async def kakashi(ctx):
-    await ctx.send(" 13 year old edgy, kid , thinks crappy memes are cool ")
+    await ctx.send(" ")
 
 
 @client.command()
 async def lulu(ctx):
-    await ctx.send("lulu ka lulu chhota hai :pinching_hand: ")
+    await ctx.send("")
 
 @client.command()
 async def poojaroom(ctx):
-    await ctx.send("https://cdn.discordapp.com/attachments/727744472674467945/758712800263798794/IMG_20200924_204516.jpg")
+    await ctx.send("")
 
 @client.command()
 async def berry(ctx):
-    await ctx.send("https://files.catbox.moe/irx4in.jpg")
+    await ctx.send("")
 
 @client.command()
 async def mamidi(ctx):
-    await ctx.send("https://youtu.be/-xS5KUZhZIQ")
+    await ctx.send("")
  
 @client.command()
 async def crick(ctx):
